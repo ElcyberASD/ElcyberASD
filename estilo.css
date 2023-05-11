@@ -1,0 +1,21 @@
+footer {
+    background-color: #000000;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    color: #ffffff;
+    position: absolute;
+    margin-bottom: 0;
+    width: 98.64%;
+  }
+
+.body2{
+    font-size: 150%;
+    line-height: 170%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
