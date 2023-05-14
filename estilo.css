@@ -14,10 +14,12 @@ footer {
     padding-left: 5%;
     padding-right: 5%;
     text-align: justify;
+    font-size: 100%;
 }
 h1{
     text-align: center;
     text-decoration: underline;
+    padding-bottom: 40px;
 }
 img{
     width: 100%;
